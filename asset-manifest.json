@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4fe1a50.css",
+    "main.js": "/static/js/main.c74e6e4e.js",
+    "static/js/787.15fef5cb.chunk.js": "/static/js/787.15fef5cb.chunk.js",
+    "static/media/me.png": "/static/media/me.d78d8d0dee373cebf64c.png",
+    "static/media/me1.jpg": "/static/media/me1.61faf71975cb09c3c99c.jpg",
+    "static/media/SQL(Intermediate).JPG": "/static/media/SQL(Intermediate).d2cb90ef98ab86551706.JPG",
+    "static/media/Java(Basic).JPG": "/static/media/Java(Basic).73690de047afcb6a56bb.JPG",
+    "static/media/JavaScript(Basic).JPG": "/static/media/JavaScript(Basic).ab6e82eabd795ce15747.JPG",
+    "static/media/React(Basic).JPG": "/static/media/React(Basic).3681584f0761d15c5df6.JPG",
+    "static/media/SQL(Basic).JPG": "/static/media/SQL(Basic).cedac05405e25982c2bb.JPG",
+    "static/media/Python(Basic).JPG": "/static/media/Python(Basic).61a3db6a2e7ac5f743b3.JPG",
+    "static/media/Sanjay_Bhandari_Java_React_Developer.pdf": "/static/media/Sanjay_Bhandari_Java_React_Developer.69c8f77227c6a237f154.pdf",
+    "static/media/image2.jpg": "/static/media/image2.5eea0368791539351670.jpg",
+    "static/media/image3.jpg": "/static/media/image3.5eea0368791539351670.jpg",
+    "static/media/image4.jpg": "/static/media/image4.5eea0368791539351670.jpg",
+    "static/media/image5.jpg": "/static/media/image5.5eea0368791539351670.jpg",
+    "static/media/image1.jpg": "/static/media/image1.480d5e50001335a2b672.jpg",
+    "index.html": "/index.html",
+    "main.b4fe1a50.css.map": "/static/css/main.b4fe1a50.css.map",
+    "main.c74e6e4e.js.map": "/static/js/main.c74e6e4e.js.map",
+    "787.15fef5cb.chunk.js.map": "/static/js/787.15fef5cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4fe1a50.css",
+    "static/js/main.c74e6e4e.js"
+  ]
+}
